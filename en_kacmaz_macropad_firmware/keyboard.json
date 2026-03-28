@@ -1,0 +1,34 @@
+{
+    "keyboard_name": "en_kacmaz_macropad",
+    "manufacturer": "hack.club",
+    "maintainer": "Eymen_Namli",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
+    "board": "GENERIC_RP_RP2040",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x6060",
+        "device_version": "1.0.0"
+    },
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "rows": [1, 0],
+        "cols": [7, 6, 29]
+    },
+    "diode_direction": "ROW2COL",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0}, {"matrix": [0, 1], "x": 1, "y": 0}, {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [1, 0], "x": 0, "y": 1}, {"matrix": [1, 1], "x": 1, "y": 1}, {"matrix": [1, 2], "x": 2, "y": 1}
+            ]
+        }
+    }
+}
