@@ -3,6 +3,8 @@ HIII, this macropad is fully self/custom made. It has 6 keys and uses a Seeed XI
 
 
 How to flash: just put .uf2 file in the microcontroller file (drag and drop).
+In the current compiled code it says, key 1: 1 key 2: 2, key 3: 3, key 4: hello, my name ıs Eymen. key 5: 5 and key 6: 6.
+so it can write macros as well but be careful your keyboards language setting can break some words.
 
 
 parts for the pcb are 6 through-hole 1N4148 Diodes, 6 MX-Style switches, 1 Seeed XIAO RP2040 and for the case you can use 4x M3x16mm screws, 4x M3x5mx4mm heatset inserts and the case would be 3d printed. (i didn't build the case for this example)
