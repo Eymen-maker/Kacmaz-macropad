@@ -1,4 +1,4 @@
-<img width="1500" height="2000" alt="WhatsApp Image 2026-08-18 at 23 55 26" src="https://github.com/user-attachments/assets/8705f4f9-e7e9-4d5a-9db0-a74fb7895c3b" />
+
 HIII, this macropad is fully self/custom made. It has 6 keys and uses a Seeed XIAO RP2040 for software it uses QMK.
 
 
@@ -11,3 +11,4 @@ parts for the pcb are 6 through-hole 1N4148 Diodes, 6 MX-Style switches, 1 Seeed
 <img width="586" height="584" alt="Screenshot 2026-03-28 162011" src="https://github.com/user-attachments/assets/506276cf-5446-449a-a19f-2168ad4a9db8" />
 <img width="978" height="654" alt="Screenshot 2026-03-28 162109" src="https://github.com/user-attachments/assets/aefec666-0361-4d5d-b7b1-44216e09afaa" />
 <img width="828" height="759" alt="Screenshot 2026-03-28 162125" src="https://github.com/user-attachments/assets/a2fad109-a547-4aa9-8c84-852d0bc8020f" />
+<img width="1349" height="1317" alt="WhatsApp Image 2026-08-18 at 23 55 25" src="https://github.com/user-attachments/assets/b5247f2f-d5d6-4c35-8a1f-d81c36cf8d22" />
