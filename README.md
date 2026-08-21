@@ -3,7 +3,13 @@ HIII, this macropad is fully self/custom made. It has 6 keys and uses a Seeed XI
 
 
 How to flash: just put .uf2 file in the microcontroller file (drag and drop).
-In the current compiled code it says, key 1: 1 key 2: 2, key 3: 3, key 4: hello, my name ıs Eymen. key 5: 5 and key 6: 6.
+In the current compiled code it says, 
+key 1: 1
+key 2: 2, 
+key 3: 3, 
+key 4: Hello, my name ıs Eymen. 
+key 5: 5 
+key 6: 6
 so it can write macros as well but be careful your keyboards language setting can break some words.
 
 
