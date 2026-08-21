@@ -1,3 +1,4 @@
+<img width="1500" height="2000" alt="WhatsApp Image 2026-08-18 at 23 55 26" src="https://github.com/user-attachments/assets/8705f4f9-e7e9-4d5a-9db0-a74fb7895c3b" />
 HIII, this macropad is fully self/custom made. It has 6 keys and uses a Seeed XIAO RP2040 for software it uses QMK.
 
 
